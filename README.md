@@ -4,7 +4,7 @@
 
 ## "Automating Turing’s Test: An Encoder-Decoder for Chatbot Identification"
 
-** This work is the opinion of the author in partial fullfillment of Viriginia Tech class CS 5984 Deep Learning and does not reflect the views of the U.S. Government, the Department of Defense, or the Defense Intelligence Agency.**
+*This work is the opinion of the author in partial fullfillment of Viriginia Tech class CS 5984 Deep Learning and does not reflect the views of the U.S. Government, the Department of Defense, or the Defense Intelligence Agency.*
 
 **Summary rationale for this project:**  
 - Chatbots can have applications for automation and efficiency in business, but increasing they are having a negative impact on the public discourse in the social media domain as evidenced by Senate hearings and academic studies of influence on the last U.S. election cycle and FCC position on net-neutrality vote "bot or not"
