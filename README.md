@@ -22,4 +22,3 @@
 
 **Repo contents:**
 - src folder includes Python 3 .py files typically applied on AWS instance and .ipynb Jupyter Notebooks used to condition and analyze data
-- data folder includes source and analytic output data and saved models
