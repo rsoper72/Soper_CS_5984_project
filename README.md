@@ -1,6 +1,7 @@
 # Soper_CS_5984_project  
 
-**Robert Soper, pid: rsoper**
+**Robert Soper, pid: rsoper**  
+10 Dec 2017
 
 ## "Automating Turing’s Test: An Encoder-Decoder for Chatbot Identification"
 
